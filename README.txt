@@ -1,0 +1,1 @@
+Given the student's grade, show its final grade and its situation: approved or not.
